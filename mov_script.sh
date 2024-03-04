@@ -1,7 +1,8 @@
 #!/bin/sh
-
+#usage ./mov_script.sh
+#dependens: ffmpeg, zenity
 #this is davinci resolve convert script
-#please check if zenity and ffmpeg install on your distro
+
 
 
 #open file.
