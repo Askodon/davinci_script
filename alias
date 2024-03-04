@@ -1,0 +1,2 @@
+#write this alias in .bashrc or .zshrc
+alias mov_script="cd /home/USER/davinci_script | ./mov_script.sh"
