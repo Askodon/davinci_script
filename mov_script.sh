@@ -1,9 +1,7 @@
 #!/bin/sh
 #usage ./mov_script.sh
 #dependens: ffmpeg, zenity
-#this is davinci resolve convert script
-
-
+#this is davinci resolve convert script, convert ".mp4" to ".mov"
 
 #open file.
 FILE=`zenity --file-selection --title="select file to convert"`
