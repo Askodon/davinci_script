@@ -6,7 +6,7 @@
 #open file.
 FILE=`zenity --file-selection --title="select file to convert"`
 
-#save file. enter the name and ".mov".
+#save file. enter the name and type ".mov".
 zenity --info \
        --title "Info Message" \
        --width 300 \
