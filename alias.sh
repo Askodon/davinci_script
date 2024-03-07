@@ -1,6 +1,4 @@
 #!/bin/sh
-#auto paste alias to use without cd to dir.
-#type "davinci" on terminal.
 WORK_DIR=$(pwd)
 
 #context menu to choive between BASH and ZSH

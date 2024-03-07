@@ -19,6 +19,7 @@ $ ./alias.sh
 ```
 *   to use alias just type "davinci" on your terminal
 ```
-$ echo -e "\nalias davinci='$WORK_DIR/"mov_script.sh"'" >> ~/.bashrc
+$ davinci
 ```
+
 
