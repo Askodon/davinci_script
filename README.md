@@ -11,7 +11,7 @@ cd davinci_script
 chmod +x ./mov_script.sh
 ./mov_script.sh
 ```
-*   use of any dir: make executable alias.sh and use ./alias.sh that make command on .bashrc
+*   use of any dir: make executable alias.sh and use ./alias.sh that make command on .bashrc or .zshrc
 ```
 chmod +x ./alias.sh
 ./alias.sh
