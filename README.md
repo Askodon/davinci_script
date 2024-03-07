@@ -1,4 +1,9 @@
 ## sh script using to convert .mp4 to .mov, and using in davinci resolve.
+
+## Usecases
+
+
+
 *   installation:
 ```
 git clone https://github.com/Askodon/davinci_script.git
