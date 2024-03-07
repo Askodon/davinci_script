@@ -19,7 +19,7 @@ END_DIR=`zenity --file-selection --directory --title="choose end directory"`
 FILE_TO_MOV=`zenity --title="file name" --entry`
 
 #make true end path
-PATH_AND_NAME=$END_DIR/$MOV.mov
+PATH_AND_NAME=$END_DIR/$FILE_TO_MOV.mov
 
 #context menu to choose param
 ASK=`zenity --list --title="Options" --column= "mkv to mov" "mp4 to mov" --width=100 --height=300 --hide-header`
